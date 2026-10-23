@@ -75,8 +75,6 @@ htmlcov/
 .ipynb_checkpoints/
 
 # ===== ML =====
-**/ml/dataset/
-**/ml/datasets/
 wandb/
 mlruns/
 runs/
